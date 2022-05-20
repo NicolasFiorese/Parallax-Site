@@ -16,5 +16,3 @@ window.addEventListener('scroll', function () {
   text.style.marginTop = value * 1.5 + 'px'
   btn.style.marginTop = value * 0.5 + 'px'
 })
-var audio = document.getElementById('audioLobo')
-audio.volume = 0.2
